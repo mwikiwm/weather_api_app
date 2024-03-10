@@ -5,7 +5,7 @@ The Weather Info App is a simple Python application designed to fetch current we
 It provides the user with the current temperature, pressure, humidity levels, and a general weather overview translated into Polish. 
 
 
-## Features 🚀🚀
+## Features 🚀
 - Fetch current weather data for any city
 - Display weather information including temperature, pressure, and humidity
 - Provide a weather overview in both English and Polish
